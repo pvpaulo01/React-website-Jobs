@@ -1,0 +1,32 @@
+.upload-container {
+    background-color: #f9f9f9;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .upload-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .upload-container p {
+    margin-bottom: 30px;
+    color: #666;
+  }
+  
+  .upload-container .form-label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .upload-container .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .upload-container .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

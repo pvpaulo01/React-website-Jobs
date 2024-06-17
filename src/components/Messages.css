@@ -1,0 +1,16 @@
+.messages-container {
+    background-color: #f9f9f9;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .messages-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .messages-container .list-group-item {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  

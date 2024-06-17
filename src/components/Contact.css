@@ -1,0 +1,35 @@
+.contact-container {
+    background-color: #f9f9f9;
+    padding: 40px ;
+    height: 800px;
+    width: 900px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-container h2 {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .contact-container p {
+    margin-bottom: 30px;
+    color: #666;
+  }
+  
+  .contact-container .form-label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .contact-container .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .contact-container .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

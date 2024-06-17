@@ -1,0 +1,24 @@
+.jobs-container {
+    background-color: #f9f9f9;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .jobs-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .jobs-container .card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .jobs-container .card-title {
+    color: #007bff;
+  }
+  
+  .jobs-container .card-link {
+    color: #007bff;
+  }
+  
